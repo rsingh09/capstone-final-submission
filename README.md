@@ -12,6 +12,8 @@
 ## Download dataset and install libraries
 https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents
 
+ - Dataset is to large to upload on github (3.06gb)
+
 ### Required Libraries
 To run the analysis, the following Python libraries are required:
 
